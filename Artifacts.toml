@@ -1,288 +1,288 @@
 [[NLopt]]
 arch = "aarch64"
-git-tree-sha1 = "900c5f3ba53bb0d128142a78da39027c65597b0f"
+git-tree-sha1 = "8eaf75cb78001abd7226a67a9fc26488bf94f4f3"
 os = "macos"
 
     [[NLopt.download]]
-    sha256 = "ed9a419b6e117a611c96029e38113ef6cb4cc65b8380612c2e9c2e30015f8878"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "9d3bcd81ca220a8761a21074d8073012720394f20b26499da1b5718af59c6976"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.aarch64-apple-darwin.tar.gz"
 [[NLopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "87aaa096f39b3766102cb30f706be5b4075fd287"
+git-tree-sha1 = "993d2868c87c674da0147699b60ede23db3de3cb"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "760fa74e94c68d6ab41664bcb704410fd279cc90d9552473575529b9338c6a26"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4761d38548054aa27b26dc155f71db8f1155630b12ce3d6ba9b1386f1525fc0d"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[NLopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6cb4ea0fc3a1b012597a5182c52f718edcef3a7"
+git-tree-sha1 = "9ebba3eff28b6e19787e34e2f60de9c3ac40f12e"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "1a72aec7a9d520885a4445b52d1f7ed05c5897d0c3f6c65fa7f0e045c2f3d2b0"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6d8e48f6267fd6c8675745e5749bad90f3d411c1f7eec17a1ea88a6b68000cee"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[NLopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a169ccb26dab17bafeb3cd11a5e5446e2c8b21d"
+git-tree-sha1 = "0e23cf42474c5f55f633de53bc0e0bc345293f6e"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "69adc6175588aba52f71f780eb5c660bbcec58d3fb01ab0791aba5f0404fa050"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "a1ea4bf1f0aa387bdc6cea006b9c964296ee2052d5612ed6a3c18f84c30a5fe6"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.aarch64-linux-musl-cxx03.tar.gz"
 [[NLopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd5969ef2ddf1ee0d6b2dc04655eac036c6e9ecb"
+git-tree-sha1 = "3a1b8151746e06134c0eca88520e25d1c68335cb"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "50e2cf12ed1286375fd830c3d2129673b48e47dbfe821636ef0311055a2e5710"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e35c1905cc4748952f813184967daefbab15817a657e5722380931908fdbf07b"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.aarch64-linux-musl-cxx11.tar.gz"
 [[NLopt]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d8e0f358af764fde7d77f059d3c9b1787ed0c1b9"
+git-tree-sha1 = "37ff90cab276fe13619bf6d48d80c550ecf5590b"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "ab3caf45afd41d442e2481b909b44bf9196e9f309877b4f2a8d7290f2bb8f8aa"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "e1c39c8ce7d0716b8d06b15b5dea3f6900c9735ec56f4183bbe326b236520dcd"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[NLopt]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3ce96c42727f6b73f7c4836dbf8428da901f968"
+git-tree-sha1 = "7a890ee1497055adffb24cdcb0d3e9815d779ab4"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "c4825c2a935511b89890481205ec32410ba66d3af236018119b6ea86659ab2da"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "a146d53a7011ca1d07b4899040549d51f4724e02ddb4ee85adad7ad8547e9314"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[NLopt]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2dfe265e77b535e9329ab6d74779cbc4559df95a"
+git-tree-sha1 = "8f90297652780ef3d1232528e559b57d42c37864"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "ae1a8e0699426d811552f7f923c02f5d5bb497deed4905a5b033e9413883a59a"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "5568996a53ae216188ba0725ae852b471cece8bc29887409b0b897e384bb3ecf"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[NLopt]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bca37166251ab0aa9d05717f4d143ff6f86dbfed"
+git-tree-sha1 = "291f615e159fb1f359f049d796934ee2fcd8816d"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "e03655461b18d4873338b616d7cd5f8b1da62c552fb458222af37af633804bd1"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "0830a5235764fca521192fadda44a7509b7e1e9383cf90c581624cf623d4e0d8"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[NLopt]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "74fda756db7b62386427d197ce14388a40c9afc8"
+git-tree-sha1 = "3c5642fa6ccd1a9b34a2b88e171bc22529e94621"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "cb810c075ac09d2eba4646d6641e7563907d350e693e866305cfc686c3e05222"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "ca2fb3079db8bc3249ab09622ef6fe9754ac96ebacb5263f541d4ea3be13b3a8"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[NLopt]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb2435609b809b272015b80ff459683ae7653df6"
+git-tree-sha1 = "73c3dd0d0c1945885bbf322c5a41001273a39a18"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "987073bacfddf288ad987695b6e4d2254faf1ded8e5fff2d2f7b56475f22e250"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "d31415febb4b8dff1627beac0014d692b18d319d2e864abde29941820d242db8"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[NLopt]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5ac62d0ff29f53c47e950a9912bb544cd1353a08"
+git-tree-sha1 = "bcf4d027da43b525d540ea74605e02f186aec7cc"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "c308b6380c454e826f47004d6a5bed1a3e11d8cffc1832cdf1eb2a4bcf68e8fd"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "489afc48f2df0516b8dd68b43a4428cfeaf455273d60e591719a85ee220db540"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[NLopt]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "39186fca1e9e8ec9e6696ef9b1d0228a6f963822"
+git-tree-sha1 = "46741fde5a2d08c3017a4bbf03469573e4402a9d"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "396e94453c0beafd55f9a2475a63e16277d8b37b8a65ce47e14702643debce4e"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "77e5a469bcc32614014e21ef677c839f438526a2bf686018b1f9025dedd351a2"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[NLopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b809d7d85edab4f5daf4ed89ead506117f3cbd9c"
+git-tree-sha1 = "c22470bf0345b5812d1b88b53b0c31355eedb457"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "111f4e422bcdb64f0a89f41965a311a339124d049e2f0f1c4e64bdb14e2cf93b"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "4afe50e1e543a480d6312dad3ff39032b6c5be437fd63d55795d5a92c95a8c94"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.i686-linux-gnu-cxx03.tar.gz"
 [[NLopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "75f1eeb75f1bbcec06c875eb8fb654940e41e63f"
+git-tree-sha1 = "99d9a73a0de2b1180857698e07605b311e27cb7c"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "9dbf64ca03c3f962dc433de40996f1f3c1c9915832493aa839987b7fe42d14f8"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "e7fba33b9bce572ae936acde61edc16867ce49a58a5533f2cbf3fc7500de1460"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.i686-linux-gnu-cxx11.tar.gz"
 [[NLopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "17401387a2431f0ece393f469f213abb35e165c5"
+git-tree-sha1 = "c6605f193c2e324b304cc94a857f5f92aaf98e20"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "e1cfc2db6952a651aa65441b7e71a9ac7a9c7fe1b1b902f8057669192c70d6a0"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "ee39054d181051828cd7c0f867ce530da9d4ea080c03488f3eda3eb97bd2f94e"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.i686-linux-musl-cxx03.tar.gz"
 [[NLopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7cdd3b3be758cc7ecbdcdd9e24f37061acfb9dec"
+git-tree-sha1 = "4ae7f01f43fa7c6b768b79a23aa217757c0b48e7"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "f9045fff52649cc97e41b07eb175dadcd4a1fe4ad1d18bcb1305a5054d0a292b"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "c9d0783c464ae9863234390bc3c354f1dc364c2e31b36ee63556643f29ade8cd"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.i686-linux-musl-cxx11.tar.gz"
 [[NLopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a17525b2123225f54b87f062685d9198eb9db690"
+git-tree-sha1 = "6f46fb210257fba5935d0a4af8adc583bcbb842b"
 os = "windows"
 
     [[NLopt.download]]
-    sha256 = "da474d4ef703bdbaa710a0015f56b133eee25452306e6bd716f7c4ee77cfaaf6"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "08c08d91effb0fa0848dbff118302d687e9f2c8e33660074323d1454ae587b7b"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.i686-w64-mingw32-cxx03.tar.gz"
 [[NLopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3720e180be46162d8576d4f60fc0501d395c504"
+git-tree-sha1 = "c6910d274ab370e67ca49352d286163f771564d5"
 os = "windows"
 
     [[NLopt.download]]
-    sha256 = "a8818164c0093c8e7b9deb22f27e32deb2be592b0ea065294e9f539a6c562dda"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "eeab2ad57d28cfc7f2690ef04b05176362fe921ced2cfc93bf3d42466f0170da"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.i686-w64-mingw32-cxx11.tar.gz"
 [[NLopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eb79f516bc3bdfbdd06717d2a16c4bc9c7d950a5"
+git-tree-sha1 = "bd64de0919372c8eb4900bebb29a76ed19058b92"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "e68b28d7712df534183cc4e113ded1e281d776a93b8a74d96949543354718c8a"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "34ca5c80e7eb1f6b4f9530db6dd4d106778c157490715295f8a4baeb8b59dbdf"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[NLopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "748185376877d480b2cbfd85e24e981f6df46e50"
+git-tree-sha1 = "5dd6fc54e8713476589399d07db38b76dfb2ab0c"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "de1b810fc7dc1f16c43b8b386e858e4c814e789bf3def31d1116509fdcd3d525"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "6eb9e4ffc24d6f7c5548f76309cc6b0f9bcaf874f1dfe8d236e6fc1f2e8e7e9b"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[NLopt]]
 arch = "x86_64"
-git-tree-sha1 = "3de79395eef7694a5f90e9feb05eb575a59e69ae"
+git-tree-sha1 = "c0b8af3ecd3a21ade51d7bfdeb24facc8bb16468"
 os = "macos"
 
     [[NLopt.download]]
-    sha256 = "e2d22df554e8d21f8a058afee611d6b486db919f333264ad082e04be59088ae1"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "41582c017b4ad68efef931e8cc04758bb654fb9e87f6991ad936322e7bb3e6d7"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-apple-darwin.tar.gz"
 [[NLopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6cf2bdf708370ae4e916908aa5ac988dddc458ab"
+git-tree-sha1 = "cc3d66a44573d5b744cc05f96d23bd5cff550d37"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "b694779e4de11c7318d451165460419f572daa8c3eaf3219d62a17e76a1a1858"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6e5116ff8e21e0a98ae856188bce1333fb44a8e036eebad4c2410bece0fb3e1a"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[NLopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "332af19a7ea5911ea41bb72ba5e3badcf5dd4ba1"
+git-tree-sha1 = "fb8d21cdf72875523ec9ec77a77f087e9414858f"
 libc = "glibc"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "dade8718234beb48602d458cd4f49b61a23e32d70e0abb3cb6d0c711768258f5"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "62bd1ceb551cd8113a9aa4d5cc549120c4a1107eda51bd88c5c3608818f5d241"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[NLopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5eebdd3733263a6795ca388aa1d350862655cb5"
+git-tree-sha1 = "1914376bd6bb3407357b113b65a5c0b3815a7f60"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "089cdb4216e0ecad8f669c5afb0f0250da182a9957bb9486d539c400700858b2"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "4adf3b20400277a4fb8036c9f42919890f23060503fe40bb709c0689bd34858f"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-linux-musl-cxx03.tar.gz"
 [[NLopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89784c69a051568c5ef9b7b8431c76dd530fadcb"
+git-tree-sha1 = "1d8f6875fd5d23b084c951f87758f297dbf51ed6"
 libc = "musl"
 os = "linux"
 
     [[NLopt.download]]
-    sha256 = "b3324c4e31e48b7aa2397446eeeda541e12cbecf3aaee447db5e352fc53e8b9b"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "33a549c727a067603b65ce1f290bdead705e57e299173f33bdbfd433b22b4531"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-linux-musl-cxx11.tar.gz"
 [[NLopt]]
 arch = "x86_64"
-git-tree-sha1 = "825f4620eeaaf5e0fcb9c3fd1b0393abd11d619c"
+git-tree-sha1 = "7ebedd5b95c1e8687f23002d511e0a535b1daebc"
 os = "freebsd"
 
     [[NLopt.download]]
-    sha256 = "10e42890cf001ce3ea4a6428d6b6771f6d82747f5e2a4eee09257bf59413cb92"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cda1253a22aff147a7a310732df51c2866f1806fa11dd13f6ddf372bd80d2340"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-unknown-freebsd.tar.gz"
 [[NLopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12128c99efc9fe100ab34c21c18db0a55634c1f6"
+git-tree-sha1 = "78ecf1c954638146957126097898b543c485d091"
 os = "windows"
 
     [[NLopt.download]]
-    sha256 = "615ef74de42c9ae3072b3eb311a3348a1e6f9f6ddcf79f5bf96e7af3b5f47f7b"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "dbecae988950e9edab7be94dcdcc4072973c98241636abc225e30b3ddb721fc1"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[NLopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aae55c67461d6bddf266d4e174d35f22808ccfae"
+git-tree-sha1 = "0ceeaf8218ceee8aeb7015f00fd6d537fc1b4df8"
 os = "windows"
 
     [[NLopt.download]]
-    sha256 = "82126ecdcf3d84b50cf095e0177891c074f8c3fc195bce287d1360ce37e38997"
-    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.7.1+0/NLopt.v2.7.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "d37ea22fa221fafa8feb8c299eb65123e5ce24d4822c1e32bf42ebbceb099565"
+    url = "https://github.com/JuliaBinaryWrappers/NLopt_jll.jl/releases/download/NLopt-v2.8.0+0/NLopt.v2.8.0.x86_64-w64-mingw32-cxx11.tar.gz"
