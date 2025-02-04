@@ -2,12 +2,12 @@
 export libnlopt
 
 JLLWrappers.@generate_wrapper_header("NLopt")
-JLLWrappers.@declare_library_product(libnlopt, "@rpath/libnlopt.0.dylib")
+JLLWrappers.@declare_library_product(libnlopt, "@rpath/libnlopt.1.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libnlopt,
-        "lib/libnlopt.0.13.0.dylib",
+        "lib/libnlopt.1.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
